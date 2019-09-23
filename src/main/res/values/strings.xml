@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTS ANDROID</string>
+    <string-array name="kelamin">
+        <item>Laki-laki</item>
+        <item>Wanita</item>
+    </string-array>
+</resources>
